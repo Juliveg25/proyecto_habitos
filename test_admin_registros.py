@@ -17,4 +17,3 @@ def test_ver_historial():
     admin_registros.ver_historial(historial)
     assert admin_registros.ver_historial(historial) == 500
 
-
