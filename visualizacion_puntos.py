@@ -10,9 +10,6 @@ def calcular_puntaje_total(habitos):
     puntos_ejercicio = puntaje_ejercicio(habitos.ejercicio)
 
     total = puntos_agua + puntos_sueno + puntos_ejercicio
-    historial_puntajes.append(total)
-    
+
     return total
 
-def ver_historial():
-    return historial_puntajes

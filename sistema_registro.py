@@ -30,9 +30,4 @@ def registrar_habitos():
 
     return habitos
 
-    # def obtener_habitos(self):
-    # return {
-    #     "agua": self.agua,
-    #     "sueno": self.sueno,
-    #     "ejercicio": self.ejercicio
-    # }
+
